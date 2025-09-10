@@ -7,6 +7,7 @@
 body{
     background-color: aqua;
     display: flex;
+    flex-direction: column;
     
 
 }
@@ -31,3 +32,27 @@ body{
     background-color: blueviolet;
 }
 
+
+
+
+
+.corFundo2{
+    background-color: rgb(148, 39, 140);
+    width: 100%;
+    border-radius: 0%;
+    display: flex;
+   
+   
+}
+.linha2{
+    display: flex;
+    width: 100%;
+   justify-content:end;
+
+}
+.circulo2{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: rgb(43, 226, 104);
+}
