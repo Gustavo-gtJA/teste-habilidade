@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: aqua;
+    display: flex;
+    
+
+}
+.corFundo1{
+    background-color: rgb(228, 19, 19);
+    width: 100%;
+    border-radius: 0%;
+    display: flex;
+   
+   
+}
+.linha1{
+    display: flex;
+    width: 100%;
+   justify-content:end;
+
+}
+.circulo{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: blueviolet;
+}
+
