@@ -56,3 +56,28 @@ body{
     border-radius: 50%;
     background-color: rgb(43, 226, 104);
 }
+
+
+
+
+
+.corFundo3{
+    background-color: rgb(180, 198, 45);
+    width: 100%;
+    border-radius: 0%;
+    display: flex;
+   
+   
+}
+.linha3{
+    display: flex;
+    width: 100%;
+   justify-content:center;
+
+}
+.circulo3{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: rgb(183, 217, 194);
+}
