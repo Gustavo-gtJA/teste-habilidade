@@ -81,3 +81,33 @@ body{
     border-radius: 50%;
     background-color: rgb(183, 217, 194);
 }
+
+
+
+
+
+
+
+
+
+
+.corFundo4{
+    background-color: rgb(148, 39, 140);
+    width: 100%;
+    border-radius: 0%;
+    display: flex;
+   
+   
+}
+.linha4{
+    display: flex;
+    width: 100%;
+   justify-content:end;
+
+}
+.circulo4{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: rgb(43, 226, 104);
+}
